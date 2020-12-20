@@ -2,9 +2,9 @@
 It's the final project of the Masters' course "Intro to Computer Vision" at [Skoltech University](https://www.skoltech.ru/en/)
 
 ## Team Members
-- Alsu Vakhitova
+- [Alsu Vakhitova](https://github.com/palette-knife25)
 - Batyrkhan Gainitdinov
-- Mohammed Deifallah
+- [Mohammed Deifallah](https://github.com/Mohammed-Deifallah)
 
 ## Problem Statement
 Pneumonia detection on chest X-ray images.
