@@ -16,7 +16,7 @@ Here are some samples:
 
 ![example.jpg](example.jpg)
 
-We also have additional images for Pneumonia from the personal archive by prof. Gainitdinova Viliya Vilevna at [Sechenov university](https://www.sechenov.ru/eng/)
+We also have additional images for Pneumonia from the personal archive by prof. **Gainitdinova Viliya Vilevna** at [Sechenov university](https://www.sechenov.ru/eng/)
 
 ## Algorithms & Techniques
 - Data Augmentation
